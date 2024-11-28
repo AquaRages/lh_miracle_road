@@ -182,5 +182,53 @@
         "quantity": "1"
       }
     ]
-  }
-]
+  },
+  {
+  "id": "aqua_emperor",
+  "items": [
+    {
+      "item": "minecraft:trident",
+      "quantity": 1,
+      "tag": "{Damage:0}"
+    },
+    {
+      "item": "magistuarmory:longbow",
+      "quantity": 1,
+      "tag": "{Damage:0}"
+    },
+    {
+      "item": "skillcloaks:fletching_hood",
+      "quantity": 1
+    },
+    {
+      "item": "minecraft:leather_chestplate",
+      "quantity": 1,
+      "tag": "{ArmorDecoration:{Items:[]},Damage:0}"
+    },
+    {
+      "item": "minecraft:chainmail_leggings",
+      "quantity": 1,
+      "tag": "{Damage:0}"
+    },
+    {
+      "item": "minecraft:chainmail_boots",
+      "quantity": 1,
+      "tag": "{Damage:0}"
+    },
+    {
+      "item": "soulslikeuniverse:estusflask",
+      "quantity": 5
+    },
+    {
+      "item": "soulslikeuniverse:presentchest",
+      "quantity": 1
+    },
+    {
+      "item": "minecraft:cooked_salmon",
+      "quantity": 16
+    },
+    {
+      "item": "minecraft:arrow",
+      "quantity": 12
+    }
+  ]
