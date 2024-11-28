@@ -25,6 +25,8 @@
   "lhmiracleroad.gui.occupation.describe.samurai": "Searching for one's own path...",
   "lhmiracleroad.gui.occupation.name.ranger": "ranger",
   "lhmiracleroad.gui.occupation.describe.ranger": "The mighty marksman who never misses, instilling fear with their ability to deliver a deadly blow in a single shot...",
+  "lhmiracleroad.gui.occupation.name.assassin": "aqua emperor",
+  "lhmiracleroad.gui.occupation.describe.assassin": "They say he was the first emperor to rule all bodies of water...",
   "lhmiracleroad.gui.attribute.text.level": "LV: %s",
   "lhmiracleroad.gui.attribute.text.points": "points: %s",
   "lhmiracleroad.gui.attribute.text.hold_soul": "hold soul",
