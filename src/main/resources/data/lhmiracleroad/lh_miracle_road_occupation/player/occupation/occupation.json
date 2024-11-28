@@ -254,5 +254,46 @@
         "level": 12
       }
     ]
-  }
-]
+  },
+  {
+  "id": "aqua_emperor",
+  "init_difficulty_level": 10,
+  "init_attribute": [
+    {
+      "id": "hp",
+      "level": 8
+    },
+    {
+      "id": "focus",
+      "level": 14
+    },
+    {
+      "id": "power",
+      "level": 12
+    },
+    {
+      "id": "sturdy",
+      "level": 10
+    },
+    {
+      "id": "endurance",
+      "level": 12
+    },
+    {
+      "id": "brain",
+      "level": 14
+    },
+    {
+      "id": "agile",
+      "level": 16
+    },
+    {
+      "id": "trick",
+      "level": 10
+    },
+    {
+      "id": "luck",
+      "level": 18
+    }
+  ]
+}
